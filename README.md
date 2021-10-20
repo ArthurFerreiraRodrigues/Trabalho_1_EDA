@@ -1,4 +1,5 @@
-# Trabalho-Prático-I
+# Distância Euclidiana entre Dois Arquivos
+Trabalho Prático I de Estrutura de Dados e Algoritmos com o Professor Fabrício Ataides Braz e o Professor Nilton Correia da Silva.
 
 ### Programa em C que avalia a similaridade entre dois textos, através de cálculos de [BOWs](https://en.wikipedia.org/wiki/Bag-of-words_model), com base em um dicionário de palavras comum.
 
@@ -15,20 +16,18 @@
 
 
 
-## Começando
+## Dependências
 
 Para executar o projeto, será necessário instalar os seguintes programas:
-
-- [CodeBlocks: Necessário para executar o projeto em C](https://www.codeblocks.org/downloads/)
 - [Mingw: Necessário para compilar o projeto em C](https://sourceforge.net/projects/mingw-w64/)
 
 ## Desenvolvimento
 
-Para iniciar o desenvolvimento, é necessário clonar o projeto do [GitHub](https://github.com/Nicolas-Roberto/Trabalho-Pr-tico-I.git) num diretório de sua preferência:
+Para iniciar o desenvolvimento, é necessário clonar o projeto do [GitHub](https://github.com/ArthurFerreiraRodrigues/Trabalho_1_EDA) num diretório de sua preferência:
 
 ```
 cd "diretorio de sua preferencia"
-git clone https://github.com/Nicolas-Roberto/Trabalho-Pr-tico-I.git
+git clone https://github.com/ArthurFerreiraRodrigues/Trabalho_1_EDA
 ```
 
 
