@@ -16,7 +16,7 @@ Trabalho Prático I de Estrutura de Dados e Algoritmos com o Professor Fabrício
 
 
 
-## Dependncias
+## Dependências
 
 Para executar o projeto, será necessário instalar os seguintes programas:
 - [Mingw: Necessário para compilar o projeto em C](https://sourceforge.net/projects/mingw-w64/)
